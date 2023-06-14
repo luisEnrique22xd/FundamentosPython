@@ -7,7 +7,7 @@ print(my_tuple[-1])
 #my_tuple[0] ="otro valor"
 
 #conjuntos (set)
-my_set = {1, 2, 4, 4, 4, 4, 4, True, "Hi bitch"}
+my_set = {1, 2, 4, 4, 4, 4, 4, True, "Hi "}
 print (type(my_set))
 print(my_set)
 
